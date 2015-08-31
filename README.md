@@ -1,7 +1,7 @@
 ## Angular Sample TicTacToe App
 
 Here's a sample Angular TicTacToe App I made to teach myself Angular. 
-
+http://evanjmg.com/projects/tictactoe-angular/
 # Key Points:
 - ng-disabled allows me to disable the boxes after they are clicked
 - ng-repeat allows me to generate the boxes 
